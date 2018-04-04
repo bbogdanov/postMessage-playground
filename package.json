@@ -1,0 +1,29 @@
+{
+  "name": "postmessage-playground",
+  "version": "1.0.0",
+  "description": "Dealing with postMessage in Iframes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbogdanov/postMessage-playground.git"
+  },
+  "keywords": [
+    "postMessage",
+    "html5",
+    "javascript",
+    "iframe"
+  ],
+  "author": "Bogdan <admin@bbogdanov.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbogdanov/postMessage-playground/issues"
+  },
+  "homepage": "https://github.com/bbogdanov/postMessage-playground#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
