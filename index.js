@@ -21,3 +21,7 @@ function frame(fileLocation) {
         open: open
     }
 };
+
+window.addEventListener('message', function (message) {
+    console.log('Message arrived', message);
+});
