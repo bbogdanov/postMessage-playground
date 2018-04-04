@@ -1,0 +1,1 @@
+var mainFrame = new frame('/mainFrame/mainFrame.html');
